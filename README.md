@@ -21,6 +21,12 @@ Extension to the technologies made includes:
 
 **Dataset URL:** https://github.com/vinaykm5758/Kafka_Real_Time_Stock_Market_Data_Engineering_Project/blob/main/indexProcessed.csv
 
+Kafka Producer Code: https://github.com/vinaykm5758/Kafka_Real_Time_Stock_Market_Data_Engineering_Project/blob/main/Kafka_Producer.ipynb
+Kafka Consumer Code: https://github.com/vinaykm5758/Kafka_Real_Time_Stock_Market_Data_Engineering_Project/blob/main/KafkaConsumer.ipynb
+Connecting to Kafka components in AWS EC2 Instance: https://github.com/vinaykm5758/Kafka_Real_Time_Stock_Market_Data_Engineering_Project/blob/main/Kafka_1.PNG
+
+AWS S3 Data: https://github.com/vinaykm5758/Kafka_Real_Time_Stock_Market_Data_Engineering_Project/blob/main/AWS_S3_Data.PNG
+
 
 **PowerBI Reports:**
 1. Connecting PowerBI with AWS S3 bucket sample JSON file: **Page-1**: https://github.com/vinaykm5758/Kafka_Real_Time_Stock_Market_Data_Engineering_Project/blob/main/Realtime_AWS_Athena_PowerBI_Report.pbix
