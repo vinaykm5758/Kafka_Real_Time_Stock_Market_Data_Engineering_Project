@@ -11,7 +11,7 @@ Extension to the technologies made includes:
 
 ![image](https://github.com/user-attachments/assets/c7927d75-fa00-4328-af21-94cdd66a756c)
 
-Technology Used:
+**Technology Used:**
 
 1. Programming Languages: Python and R Language
 2. Cloud Provider: AWS - S3, Athena, Glue Catalog, Glue Crawler, Ec2
@@ -19,11 +19,24 @@ Technology Used:
 4. ODBC Driver: Simba ODBC Driver to connect PowerBI to AWS Athena
 5. R Packages: AWS S3 R Package to connect to AWS S3 bucket
 
-Dataset URL:
+**Dataset URL:** https://github.com/vinaykm5758/Kafka_Real_Time_Stock_Market_Data_Engineering_Project/blob/main/indexProcessed.csv
 
-PowerBI Reports:
 
-R Script:
+**PowerBI Reports:**
+1. Connecting PowerBI with AWS S3 bucket sample JSON file: **Page-1**: https://github.com/vinaykm5758/Kafka_Real_Time_Stock_Market_Data_Engineering_Project/blob/main/Realtime_AWS_Athena_PowerBI_Report.pbix
+2. Connecting PowerBI with AWS Athena Table "stock_market_kafka.kafka_stock_market_demo_viinay": **Page-2**: https://github.com/vinaykm5758/Kafka_Real_Time_Stock_Market_Data_Engineering_Project/blob/main/Realtime_AWS_Athena_PowerBI_Report.pbix
+
+**Data Validations:**
+1. Validated the counts for the Index column from AWS Athena Vs PowerBI Report in Real time: **Counts Matched**
+
+   ![image](https://github.com/user-attachments/assets/ef2b7e00-5e88-4380-8fe5-100bcca82893)
+
+
+   ![image](https://github.com/user-attachments/assets/a641031f-e1e0-4dad-a8ac-f992ee93d1cb)
+
+   
+
+**R Script used in PowerBI:**
 
 Sys.setenv(
 
